@@ -1,4 +1,4 @@
-# Web-Scrapping of writer and reader profiles sof Medium blogposts using Selenium and bs4
+# Web-Scrapping of Medium blogposts using Selenium and bs4
 
 This web scraper mainly does the work of collecting data to analyze writer and reader profiles of Medium blogposts.
 
