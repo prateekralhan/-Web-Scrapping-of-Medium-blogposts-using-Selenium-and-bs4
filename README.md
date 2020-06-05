@@ -10,6 +10,6 @@ Dependencies:
 3. pandas
 4. requests
 
-Install the packages using: ***pip install <package-name>***
+Install the packages using: ***pip install < package-name > ***
 
 You also need to have chromedriver installed in your system. You can find the latest Chromedriver for Win10 in this repo. Else, you can check [this](https://chromedriver.chromium.org/downloads) to get the chromdriver for your OS.
